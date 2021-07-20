@@ -1,4 +1,4 @@
-Instruction befpore running the project
+Instructions before running the project
 
 
 1:- webproj is frontend of this project developed in angular framework. webproj is not included with node modules, so in order to run this make sure to download node module via npm command.
